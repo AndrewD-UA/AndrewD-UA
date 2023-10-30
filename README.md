@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AndrewD-UA
+- 👋 Hi, I’m Andrew Denniosn (@AndrewD-UA)
 - 👀 I’m interested in desktop and web (client/server) application development
 - 🌱 I’m currently studying Computer Science at the University of Arizona
 - 📫 How to reach me (professional inquiries): andrew@fifthprinciple.net
