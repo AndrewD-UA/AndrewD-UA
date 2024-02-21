@@ -7,6 +7,8 @@
                   MERN stack (MongoDB, Express, React, Node.js)
                   ASM (32-bit MIPS)
                   C
+-     Operating Systems: Windows,
+                         Linux (Ubuntu) 
 - 📫 How to reach me (professional inquiries): andrew@fifthprinciple.net
 
 <!---
