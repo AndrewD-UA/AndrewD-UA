@@ -4,7 +4,7 @@
 -     Languages:  Java,
                   Pyton,
                   JavaScript/TypeScript,
-                  MERN stack (MongoDB, Express, React, Node.js
+                  MERN stack (MongoDB, Express, React, Node.js)
                   ASM (32-bit MIPS)
                   C
 - 📫 How to reach me (professional inquiries): andrew@fifthprinciple.net
