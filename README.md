@@ -2,8 +2,8 @@
 - 👀 I’m interested in desktop, backend, and systems application development
 - 🌱 I’m currently studying Computer Science at the University of Arizona
 -     Languages:  Java,
-                  Pyton,
-                  JavaScript/TypeScript,
+                  Python,
+                  JavaScript/JSX,
                   MERN stack (MongoDB, Express, React, Node.js)
                   ASM (32-bit MIPS)
                   C
