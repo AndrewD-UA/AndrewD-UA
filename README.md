@@ -10,6 +10,10 @@
                   C#
 -     Operating Systems: Windows,
                          Linux
+-     Frameworks/Tools:  Spring Boot (Data/Web/MVC)
+                    React
+                    JavaFX
+                    Maven
 - 📫 How to reach me (professional inquiries): andrew@fifthprinciple.net
 
 <!---
