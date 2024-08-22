@@ -8,12 +8,12 @@
                   ASM (32-bit MIPS)
                   C, C++,
                   C#
--     Operating Systems: Windows,
-                         Linux
--     Frameworks/Tools:  Spring Boot (Data/Web/MVC)
-                    React
-                    JavaFX
-                    Maven
+-     Operating Systems:  Windows,
+                          Linux
+-     Frameworks/Tools:   Spring Boot (Data/Web/MVC)
+                          React
+                          JavaFX
+                          Maven
 - 📫 How to reach me (professional inquiries): andrew@fifthprinciple.net
 
 <!---
